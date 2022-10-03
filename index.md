@@ -4,6 +4,7 @@
 
 <!--Bold and italic with ***-->
 ***About Me***
+
 ![mokoko](mokoko.jpg)
 ## A nice quote
 <!--Quote code with >-->
@@ -40,5 +41,4 @@ git add
 git commit
 git push
 ```
-[Read Me](index.md)
-#### Spotify Link
+[Read Me](README.md)
